@@ -1,2 +1,1 @@
  - [Hjemmesiden om mig](Hjemmeside/index.html)
- - [En stickman figur](Sketch/tændstikmand.html)
