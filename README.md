@@ -1,0 +1,2 @@
+ - [Hjemmesiden om mig](Hjemmeside/hovedhjemmeside.html)
+ - [En stickman figur](Sketch/)
