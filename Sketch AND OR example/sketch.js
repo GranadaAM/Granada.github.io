@@ -15,6 +15,6 @@ function setup() {
         text('xD', mouseX, mouseY)
     }
     if (mouseX < 400 && mouseY > 400){
-        text('haha', mouseX, mouseY)
+        text('yo mama', mouseX, mouseY)
     }
   }
