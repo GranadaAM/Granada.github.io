@@ -1,3 +1,3 @@
  - [Hjemmesiden om mig](Hjemmeside/index.html)
- - [En lærerig side med demoer om JavaScript operationer](JavaScriptOpretationer/jsOperationerRedirect.html)
+ - [En lærerig side med demoer om JavaScript operationer](JavaScriptOperationer/jsOperationerRedirect.html)
  - [SUPER SECRET DO NOT LOOK](Sketch AND OR example/supersecret.html)
