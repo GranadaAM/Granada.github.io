@@ -1,28 +1,41 @@
 <html>
 <body>
     <script type="text/javascript">
-    for (let i=10; i>0; i--){
-    document.write(i + "<BR>");
-}
+        for (let i=10; i>0; i--){
+        document.write(i + "<BR>");
+        }
     </script>
     <BR>
     <script type="text/javascript">
-    let sum = 0;
-    for(let i=1; i<=20; i++){
-    sum += i}
-    document.write(sum);
+        let sum = 0;
+        for(let i=1; i<=20; i++){
+        sum += i}
+        document.write(sum);
     </script>
     <BR>
     <BR>
     <script type="text/javascript">
-    for (i=1; i<=20; i++){
-        if (i%2 == 0)
-        document.write(i + "<BR>");}
+        for(let j=2; j<=10; j++){
+        for(i=1; i<=j*10; i++){
+            if (i%j == 0)
+            document.write(i + "<BR>"); //brug document.write i html kode for at display ordentligt
+            }
+        document.write("<BR>") //brug igen document.write for at skabe plads mellem tabellerne
+        }
     </script>
     <script type="text/javascript">
-    for (let x = 1; x>=10; x++){
-    let y = (3*x*x+6*x+9);
+    let y
+    for (let x = 1; x<=10; x++){
+    y = (3*x*x+6*x+9);
     document.write(y + "<BR>");}
+    </script>
+    <BR>
+    <script type="text/javascript">
+        let y
+        for (let x = 10; x<=100; x = x + 10){
+        y = (3*x*x+6*x+9);
+        document.write(y + "<BR>");
+        }
     </script>
 </body>
 </html>
